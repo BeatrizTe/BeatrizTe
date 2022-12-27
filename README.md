@@ -2,7 +2,7 @@
   <h1 title_color="color:#B3153E;">⭐ Hello World ⭐
   </h1> <img align="right" alt="bat" width="90" height="90" src="https://i.pinimg.com/originals/a9/5d/58/a95d5899073731ba54f72607d3d60791.gif">
   <p>🧛‍♀‍ Oiee!! Meu nome é Beatriz Telli, bem-vind@ ao meu perfil!!</p>
-  <p>💻 Sou uma estudante autodidata em programação, com afinidade em front-end;</p>
+  <p>💻 Sou uma estudante autodidata em desenvolvimento, com afinidade em front-end;</p>
   <p>🎨 Sou detalhista e artista;</p>
   <p>🐱 Amo gatos.</p>
  
