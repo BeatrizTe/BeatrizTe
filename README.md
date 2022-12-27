@@ -1,6 +1,11 @@
   <div>
-  <h1 title_color="color:#B3153E;">Hello World ⭐
+  <h1 title_color="color:#B3153E;">⭐ Hello World ⭐
   </h1> <img align="right" alt="bat" width="90" height="90" src="https://i.pinimg.com/originals/a9/5d/58/a95d5899073731ba54f72607d3d60791.gif">
+  <p>🧛‍♀‍ Oiee!! Meu nome é Beatriz Telli, bem-vind@ ao meu perfil!!</p>
+  <p>💻 Sou uma estudante autodidata em programação, com afinidade em front-end;</p>
+  <p>🎨 Sou detalhista e artista;</p>
+  <p>🐱 Amo gatos.</p>
+ 
   <a href="https://github.com/beatrizte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizte&layout=compact&langs_count=7&theme=radical"/>
@@ -14,7 +19,7 @@
 </div>
   
   ##
- 
+  <p> Quer entrar em contato comigo? Nos ícones abaixo você pode me enviar uma mensagem!! </p>
 <div> 
   <a href="https://www.instagram.com/andromeda.will.kill.us/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:biatelli99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
